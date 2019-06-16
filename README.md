@@ -55,7 +55,7 @@ $ git clone https://github.com/Marten4n6/EvilOSX
 $ cd EvilOSX
 
 # Install dependencies required by the server
-$ sudo pip install -r requirements.txt
+$ pip install -r requirements.txt
 
 # Start the GUI
 $ python start.py
